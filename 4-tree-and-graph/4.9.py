@@ -77,6 +77,7 @@ def main():
         answer.append(' '.join((str(x.value) for x in intermediate_result)))
 
 
+#=================tests============
 root = q1
 intermediate_result = [root]
 root.inserted = True
